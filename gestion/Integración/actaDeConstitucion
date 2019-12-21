@@ -15,9 +15,7 @@ Acta de constitución del Proyecto
 
 • El propósito o la justificación del proyecto,
 
-
-El propósito del proyecto es el aprendizaje por parte de los interezados del proceso de ingeniería, negocio y puesta en producción de un ecomerce.
-
+El propósito del proyecto es el aprendizaje por parte de los interesados del proceso de ingeniería, negocio y puesta en producción de un ecomerce.
 
 • Los objetivos medibles del proyecto y los criterios de éxito asociados,
 
@@ -26,31 +24,33 @@ Los objetivos son:
 Tener la aplicación funcionando en local.
 Obtener un servidor gratuito compatible con la aplicación.
 Tener la aplicación funcionando en el servidor.
-Intruir al usuario para que pueda utilizar la aplicación. Puede ser por medio de manuales o tutoriales.
-Instruir a los interesados en el proceso de gestión de proyectos e ingeniería de sofware y sus herramientas.
-
-
+Instruir al usuario para que pueda utilizar la aplicación. Puede ser por medio de manuales o tutoriales.
+Instruir a los interesados en el proceso de gestión de proyectos e ingeniería de software y sus herramientas.
 
 • Los requisitos de alto nivel,
 
-
-
-
-
-
-
-
-
-
-
-
+Requerimiento 1. Ecomerce
+Requerimiento 2. Puesta en marcha en servidor
+Requerimiento 3. Instrucción de uso a interesados
 
 • Los supuestos y las restricciones,
+
+La principal restricción es la obtención del servidor gratuito.
+También se deberá tener en cuenta cuestiones legales como los datos de la afip.
+
 • La descripción de alto nivel del proyecto y sus límites,
 • Los riesgos de alto nivel,
 • El resumen del cronograma de hitos,
+
+Aplicación funcionando el local.
+Obtención del Servidor gratuito y compatible.
+Tener la aplicación funcionando en el servidor.
+Instruir al usuario para que pueda utilizar la aplicación.
+
 • El resumen del presupuesto,
 • La lista de interesados,
+
+
 • Los requisitos de aprobación del proyecto (es decir, en qué consiste el éxito del proyecto, quién
 decide si el proyecto tiene éxito y quién firma la aprobación del proyecto),
 • El director del proyecto asignado, su responsabilidad y su nivel de autoridad
