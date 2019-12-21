@@ -15,44 +15,65 @@ Acta de constitución del Proyecto
 
 • El propósito o la justificación del proyecto,
 
-El propósito del proyecto es el aprendizaje por parte de los interesados del proceso de ingeniería, negocio y puesta en producción de un ecomerce.
+	El propósito del proyecto es el aprendizaje por parte de los interesados del proceso de ingeniería, negocio y puesta en producción de un ecomerce.
 
 • Los objetivos medibles del proyecto y los criterios de éxito asociados,
 
-Los objetivos son:
+	Los objetivos son:
 
-Tener la aplicación funcionando en local.
-Obtener un servidor gratuito compatible con la aplicación.
-Tener la aplicación funcionando en el servidor.
-Instruir al usuario para que pueda utilizar la aplicación. Puede ser por medio de manuales o tutoriales.
-Instruir a los interesados en el proceso de gestión de proyectos e ingeniería de software y sus herramientas.
+	Tener la aplicación funcionando en local.
+	Obtener un servidor gratuito compatible con la aplicación. 
+	Tener la aplicación funcionando en el servidor.
+	Instruir al usuario para que pueda utilizar la aplicación. Puede ser por medio de manuales o tutoriales.
+	Instruir a los interesados en el proceso de gestión de proyectos e ingeniería de software y sus herramientas.
 
 • Los requisitos de alto nivel,
 
-Requerimiento 1. Ecomerce
-Requerimiento 2. Puesta en marcha en servidor
-Requerimiento 3. Instrucción de uso a interesados
+	Requerimiento 1. Ecomerce
+	Requerimiento 2. Puesta en marcha en servidor
+	Requerimiento 3. Instrucción de uso a interesados
 
 • Los supuestos y las restricciones,
 
-La principal restricción es la obtención del servidor gratuito.
-También se deberá tener en cuenta cuestiones legales como los datos de la afip.
+	La principal restricción es la obtención del servidor gratuito.
+	También se deberá tener en cuenta cuestiones legales como los datos de la afip.
 
 • La descripción de alto nivel del proyecto y sus límites,
+	Requerimiento1. Ecomerce
+		El ecomerce será un ecomerce básico que presenta la plataforma Sylius. 		
+	Requerimiento4. Administración 
+		El ecomerce tendra una sección de administración.
+	Requerimiento5. Usuario Administrador.
+		El sistema se entregará con un usuario administrador.
+	Requerimiento6. Página
+		El sistema tendrá una página para mostrar los productos.
+	Requerimiento7. Diseño de página
+		El diseño de la página será el predeterminado. Sólo se cambiarán los logos. 
+
 • Los riesgos de alto nivel,
+	Riesgo1. Que el usuario no acepte el sistema.
+	Riesgo2. Que ciertas cuestiones legales no permitan implementar el sistema.
+	Riesgo3. Que componentes que vienen por defecto y no son quitados generen problemas.
+
 • El resumen del cronograma de hitos,
 
-Aplicación funcionando el local.
-Obtención del Servidor gratuito y compatible.
-Tener la aplicación funcionando en el servidor.
-Instruir al usuario para que pueda utilizar la aplicación.
+	Hito1.	Aplicación funcionando el local.
+	Hito2.	Obtención del Servidor gratuito y compatible.
+	Hito3.	Tener la aplicación funcionando en el servidor.
+	Hito4. 	Instruir al usuario para que pueda utilizar la aplicación.
 
 • El resumen del presupuesto,
 • La lista de interesados,
-
+	Interesado id1	
+	Interesado id2	
+	Interesado id3	
+	Interesado id4	
 
 • Los requisitos de aprobación del proyecto (es decir, en qué consiste el éxito del proyecto, quién
 decide si el proyecto tiene éxito y quién firma la aprobación del proyecto),
+	El proyecto está aprobado con la obtención de los tres primeros hitos del resumen del cronograma de hitos.
+
 • El director del proyecto asignado, su responsabilidad y su nivel de autoridad
+	
 • El nombre y el nivel de autoridad del patrocinador o de quienes autorizan el acta de constitución del
 proyecto.
