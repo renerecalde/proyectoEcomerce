@@ -15,7 +15,7 @@ Acta de constitución del Proyecto
 
 • El propósito o la justificación del proyecto,
 
-	El propósito del proyecto es el aprendizaje por parte de los interesados del proceso de ingeniería, negocio y puesta en producción de un ecomerce.
+	El propósito del proyecto es el aprendizaje por parte de los interesados del proceso de ingeniería, negocio y puesta en producción de un ecommerce.
 
 • Los objetivos medibles del proyecto y los criterios de éxito asociados,
 
@@ -40,9 +40,9 @@ Acta de constitución del Proyecto
 
 • La descripción de alto nivel del proyecto y sus límites,
 	Requerimiento1. Ecomerce
-		El ecomerce será un ecomerce básico que presenta la plataforma Sylius. 		
+		El ecommerce será un ecommerce básico que presenta la plataforma Sylius. 		
 	Requerimiento4. Administración 
-		El ecomerce tendra una sección de administración.
+		El ecommerce tendra una sección de administración.
 	Requerimiento5. Usuario Administrador.
 		El sistema se entregará con un usuario administrador.
 	Requerimiento6. Página

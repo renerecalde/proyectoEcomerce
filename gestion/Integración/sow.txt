@@ -4,5 +4,5 @@ Statment Of Work
 
 a. Poductos
 
-El producto a entregar es un sistema ecomerce en producción para un comercio de venta de articulos para el hogar. 
+El producto a entregar es un sistema ecommerce en producción para un comercio de venta de articulos para el hogar. 
 
