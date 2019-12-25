@@ -4,17 +4,21 @@ Tareas
 
 	a. Inicio
 		i. Desarrollar acta de constitución de proyecto.
+		ii. Desarrollar project plan.
 2. Ingeniería
 
 	b. Ver requerimientos ok
 		php 7.2 o higer.
 		composer
 		yarn
-
  	a. Descargar Silium. ok
-
 	b. Versionar. ok	
 
 	c. Error No Permite subir imágenes.
-	d.
-	
+	d. Ver ingenieria de software, centrarce en deploy. 
+		i. Realizar el modelo arquitectónico del sistema en una descripción física. Es decir, las vista arquitectónica físcia. ok
+	e. Investigar el servidor. Ya está funcionando.
+	f. Subir el proyecto. 
+		i. Antes de subir bin/console --env=prod --no-debug cache:clear
+	g. Configurar db
+		
