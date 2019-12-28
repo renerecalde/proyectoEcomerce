@@ -1,0 +1,11 @@
+Plan de Gestión de Requisitos
+
+• Cómo serán planificadas, monitoreadas y reportadas las actividades asociadas a los requisitos y qué
+se informará sobre éstas;
+• Las actividades de gestión de la configuración, según: cómo se iniciarán los cambios del producto,
+cómo se analizará el impacto, cómo será el monitoreo, seguimiento y reporte, así como los niveles
+de autorización requeridos para aprobar dichos cambios;
+• El proceso para priorizar los requisitos;
+• Las métricas del producto que se utilizarán y el fundamento de su uso; y
+• La estructura de trazabilidad para reflejar qué atributos de los requisitos se plasmarán en la matriz
+de trazabilidad. 

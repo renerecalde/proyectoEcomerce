@@ -21,8 +21,8 @@ Acta de constitución del Proyecto
 
 	Los objetivos son:
 
-	Tener la aplicación funcionando en local.
-	Obtener un servidor gratuito compatible con la aplicación. 
+	Tener la aplicación funcionando en local con las funcionalidades mínimas posibles.
+	Obtener un servidor gratuito compatible con la aplicación, o aquel con el plan de pagos más económico. 
 	Tener la aplicación funcionando en el servidor.
 	Instruir al usuario para que pueda utilizar la aplicación. Puede ser por medio de manuales o tutoriales.
 	Instruir a los interesados en el proceso de gestión de proyectos e ingeniería de software y sus herramientas.

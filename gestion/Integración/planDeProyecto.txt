@@ -4,4 +4,17 @@ Plan de Dirección de Proyecto
 • Línea base del cronograma (Sección 6.6.3.1), y
 • Línea base de costos (Sección 7.3.3.1).
 
+Plan de Gestión de Alcance
+
+• El proceso para elaborar un enunciado detallado del alcance del proyecto;
+• El proceso que permite la creación de la EDT/WBS a partir del enunciado detallado del alcance del
+proyecto;
+• El proceso que establece cómo se mantendrá y aprobará la EDT/WBS;
+• El proceso que especifica cómo se obtendrá la aceptación formal de los entregables del proyecto que
+se hayan completado; y
+• El proceso para controlar cómo se procesarán las solicitudes de cambio relativas al enunciado del
+alcance detallado del proyecto. Este proceso está directamente vinculado con el proceso Realizar el
+Control Integrado de Cambios (Sección 4.5)
+
+
 
