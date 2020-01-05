@@ -1,0 +1,39 @@
+Documentación de Requisitos
+
+Requisitos de negocio
+Requisitos de los interesados
+Requisitos del producto
+	Funcionales
+		RequerimientoF4. Administración 
+			El ecommerce tendra una sección de administración.
+		RequerimientoF6. Página
+			El sistema tendrá una página para mostrar los productos.
+
+	No funcionales
+		RequerimientoNF1. Ecomerce
+			El ecommerce será un ecommerce básico que presenta la plataforma Sylius. 		
+		RequerimientoNF2. Email
+			El sistema deberá tener un email para el envio y recepción de emails.
+		RequerimientoNF4. Tema
+			Se deberá customizar el tema para poder la leyenda creado por "..." con sylius. 
+		RequerimientoNF5. Usuario Administrador.
+			El sistema se entregará con un usuario administrador.
+		RequerimientoNF6. Tema 
+			Se deberá modificar el tema de la tienda en la sección Tu tienda. Con información sobre la tienda.	
+		RequerimientoNF7. Diseño de página
+			El diseño de la página será el predeterminado. Sólo se cambiarán los logos. 
+		RequerimientoNF8. Tema 
+			El interesado id 3 deberá proporcionar información sobre la atención al cliente y se deberá configurar el sitio shop con esa información.
+
+	Requisitos de apoyo y capacitación
+		RequerimientoA1. Manual de usuario Administrador
+			Se deberá construir un manual de usuario para el administrador.
+			Ëste se debe poder subir a algún servidor o directamente a la página.	
+
+
+	
+Requisitos del proyecto
+Requisitos de calidad
+
+
+

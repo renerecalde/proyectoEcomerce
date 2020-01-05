@@ -22,7 +22,7 @@ Acta de constitución del Proyecto
 	Los objetivos son:
 
 	Tener la aplicación funcionando en local con las funcionalidades mínimas posibles.
-	Obtener un servidor gratuito compatible con la aplicación, o aquel con el plan de pagos más económico. 
+	Obtener un servidor gratuito compatible con la aplicación, o aquel con el plan de pagos más económico.  ok
 	Tener la aplicación funcionando en el servidor.
 	Instruir al usuario para que pueda utilizar la aplicación. Puede ser por medio de manuales o tutoriales.
 	Instruir a los interesados en el proceso de gestión de proyectos e ingeniería de software y sus herramientas.
@@ -30,7 +30,7 @@ Acta de constitución del Proyecto
 • Los requisitos de alto nivel,
 
 	Requerimiento 1. Ecomerce
-	Requerimiento 2. Puesta en marcha en servidor
+	Requerimiento 2. Puesta en marcha en servidor con las funcionalidades mínimas necesarias para funcionar.
 	Requerimiento 3. Instrucción de uso a interesados
 
 • Los supuestos y las restricciones,
@@ -57,9 +57,9 @@ Acta de constitución del Proyecto
 
 • El resumen del cronograma de hitos,
 
-	Hito1.	Aplicación funcionando el local.
-	Hito2.	Obtención del Servidor gratuito y compatible.
-	Hito3.	Tener la aplicación funcionando en el servidor.
+	Hito1.	Aplicación funcionando el local. Hito alcanzado.
+	Hito2.	Obtención del Servidor gratuito y compatible. No se consiguió un servidor gratuito, pero si compatible. Alcanzado.
+	Hito3.	Tener la aplicación funcionando en el servidor.  Alcanzado.
 	Hito4. 	Instruir al usuario para que pueda utilizar la aplicación.
 
 • El resumen del presupuesto,
